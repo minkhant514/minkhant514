@@ -22,6 +22,6 @@ Flutter Developer with 3+ years of experience delivering scalable, high-performa
 ![](https://github-contributor-stats.vercel.app/api?username=minkhant514&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=minkhant514&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=minkhant514&label=Profile%20Views&color=blue&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
